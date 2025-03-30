@@ -1,0 +1,5 @@
+/main-dev
+/build
+/frontend/node_modules
+/static/dist
+/tmp
