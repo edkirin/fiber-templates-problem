@@ -1,4 +1,4 @@
-{{ template "layouts/base" . }}
+{{ template "layout" . }}
 
 {{ define "content" }}
     <h1>Frontpage</h1>
